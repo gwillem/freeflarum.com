@@ -5,14 +5,16 @@
     They can add many useful things to your forum that aren't avaliabe in the default Flarum software.
 
     Here at FreeFlarum, extensions are treated a little differently. For example, if you want your extension
-    to be added, you have to request it [here](https://www.github.com/gwillem/freeflarum.com/issues/new/choose/).
+    to be added, you have to request it [here][request-your-extensions-here].
+
+    [request-your-extensions-here]: https://github.com/gwillem/freeflarum.com/issues/new?assignees=&labels=%F0%9F%99%8B+Extension%2Ffeature+request&template=extension-request.md&title=%5BInsert+name+of+the+extension%2Ffeature+here%5D
     
     Currently, you cannot upload your own extension due to security reasons. You have to request it by using the link above and appropriate template.
     
     All extensions are provided for Flarum by the Flarum community. We can't fix issues that come from extensions - you have to ask the extension's author to fix it (submit an issue to their GitHub repository, for example).
 
 !!! question "The extension I am looking for is not on the list. How can I add an extension?"
-    If you want your extension to be added, you need to [request an extension](https://github.com/gwillem/freeflarum.com/issues/new/choose).
+    If you want your extension to be added, you need to [request an extension][request-your-extensions-here].
 
 !!! question "Can extensions break my forum?"
     Yes, some extensions aren't compatible with (Free)Flarum (they're outdated, for example).
@@ -25,7 +27,7 @@
     If he abandoned the extension for some reason, we're just sorry but we can't really help you with that.
 
 !!! question "When will the X extension update?"
-    We work hard to keep all of your forums as up-to-date as possible. But you can always request to update a specific extension [here](https://www.github.com/gwillem/freeflarum.com/issues/new/choose).
+    We work hard to keep all of your forums as up-to-date as possible. But you can always request to update a specific extension [here][request-your-extensions-here].
     
 !!! question "I need more help..."
     Don't hesitate to [open up an issue](https://www.github.com/gwillem/freeflarum.com/issues/new/choose) then. We will be happy to respond to you as fast as possible.
@@ -44,7 +46,7 @@ You can modify your extension's settings by hovering on the extension and clicki
 
 Or just locate your extension in the menu on right (if available).
 
-You can request other Flarum extensions [here](https://www.github.com/gwillem/freeflarum.com/issues/new), however be sure to check if your extension:
+You can request other Flarum extensions [here][request-your-extensions-here], however be sure to check if your extension:
 
 - does not allow uploads of files directly to FreeFlarum, or run of custom PHP code & must be secure;
 - is stable and up-to-date.
